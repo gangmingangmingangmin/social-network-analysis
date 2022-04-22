@@ -24,3 +24,7 @@ Through movie reviews by users, social network between movie review keywords is 
 - Change reviewer-review (2-mode) data to review-review (1-mode) data and establish a network
 - For the relationship between review keywords, use Betweeness centrality because common keywords are important regardless of review propensity or intention
 - Express by EqualEdge and Gower scaling
+
+## visualization
+
+- Python with Gephi
