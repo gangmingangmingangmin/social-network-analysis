@@ -1,5 +1,7 @@
 # social-network-analysis
 
+result summary : presentation.pptx
+
 ### Intro
 Through movie reviews by users, social network between movie review keywords is established, and through this, insight such as topology, relationships, and interesting elements of keywords according to the genre of the movie is derived
 
